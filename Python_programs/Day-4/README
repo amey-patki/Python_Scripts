@@ -1,0 +1,14 @@
+# commands to create and access virtual env
+
+#install virtual env
+ pip install virtualenv
+
+
+ #Create Virtual env
+ python -m venv project-abc
+
+ #ssh into that env
+ source project-abc/bin/activate
+
+ #to exit
+ deactivate
