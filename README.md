@@ -12,6 +12,6 @@ Day 6: Operators
 Day 7: Conditional Handling using if, elif and else
 Conditional statements (if, elif, else).
 
-Day 8: Working with Lists 
+Day 8: Assignment on List and Tuples
 
 
