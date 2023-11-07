@@ -2,11 +2,11 @@ import shutil
 import datetime
 
 # Define the source directory to be backed up
-source_dir = "/workspaces/Python_Scripts/Programs"
+source_dir = "/path/to/source_directory"
 
 # Create a timestamp for the backup folder
 timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-backup_dir = f"/workspaces/Python_Scripts/Backup_{timestamp}"
+backup_dir = f"/path/to/backup_directory/backup_{timestamp}"
 
 try:
     # Copy the contents of the source directory to the backup directory
