@@ -1,6 +1,6 @@
 import os
 # Open the file in read mode
-file_path = "your_file.txt"  # Replace with the path to your text file
+file_path = "/workspaces/Python_Scripts/Programs/Hello"  # Replace with the path to your text file
 
 if os.path.exists(file_path):
     with open(file_path, "r") as file:
