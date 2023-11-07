@@ -2,7 +2,7 @@ import shutil
 import datetime
 
 # Define the source directory to be backed up
-source_dir = "/path/to/source_directory"
+source_dir = "/path/to/source_directory" #replace with your directory path for which you want to create backup
 
 # Create a timestamp for the backup folder
 timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
