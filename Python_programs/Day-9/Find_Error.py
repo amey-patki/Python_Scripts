@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# Find Error in log file
-=======
 
->>>>>>> 73002c885514c3f9bd27a54aee917fe625197e76
+# Find Error in log file
+
 def analyze_log_file(file_path):
     try:
         # Open the log file in read mode
