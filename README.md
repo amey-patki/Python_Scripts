@@ -17,7 +17,7 @@ Day 8: Assignment on List and Tuples
 Day 9 : Loops in python
 . Loops in python (for and while)
 . Loops control statement (break, continue)
-. Practice
+. Real time based scenario questions
 
 
 
