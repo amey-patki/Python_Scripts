@@ -19,7 +19,7 @@ Day 9 : Loops in python
 . Loops control statement (break, continue)
 . Practice
 
-Day 10 :
+
 
 
 
