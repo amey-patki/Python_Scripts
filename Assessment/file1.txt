@@ -1,0 +1,5 @@
+Welcome to python !
+
+python is easy !
+
+Thank you !
