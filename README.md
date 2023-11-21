@@ -19,6 +19,8 @@ Day 9 : Loops in python
 . Loops control statement (break, continue)
 . Real time based scenario questions
 
+Day 10 : Python Real Time UseCase with Lists & Exceptional Handling
+
 
 
 
