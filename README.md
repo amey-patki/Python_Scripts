@@ -29,7 +29,7 @@ Day 12 :  File Operations Examples.
 
 # Python BOTO3 Module Examples :
 
-# Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2. 
+- Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2. 
 
 • Start, Stop and Terminate EC2 Instance using Python BOTO3 Module.
 
