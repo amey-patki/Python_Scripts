@@ -33,7 +33,7 @@ def append_to_new_data(input_file, output_file):
 new_data_file_path = 'new_data.txt'
 address_file_path = 'address.txt'
 
-# Part a: Read from the Address table and print to new_data.txt
+#  Read from the Address table and print to new_data.txt
 read_from_address_table(new_data_file_path)
 
 # Part b: Append contents of address.txt to new_data.txt
