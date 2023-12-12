@@ -1,6 +1,6 @@
 import boto3
 
-# Connect to EC2
+# Connect to AWS EC2
 ec2_client = boto3.client('ec2')
 
 # Start an EC2 instance
