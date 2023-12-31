@@ -14,7 +14,7 @@ Conditional statements (if, elif, else).
 
 Day 8: Assignment on List and Tuples
 
-Day 9 : Loops in python
+Day 9 : Loops 
 . Loops in python (for and while)
 . Loops control statement (break, continue)
 . Real time based scenario questions
