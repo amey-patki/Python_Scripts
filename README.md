@@ -1,4 +1,4 @@
-# Python_Scripts/Python_program REPO
+# Python_Scripts/Python_program REPOS
 In this repo you will learn about python basics and projects based upon it, I will keep adding resources to it 📚
 
 Day 2: Intro to Datatypes, Working with Strings and Numbers
