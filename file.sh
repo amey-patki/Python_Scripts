@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo " Hi this is Amey "
+echo " Hi This Is My Repo "
